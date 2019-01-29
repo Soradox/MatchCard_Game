@@ -18,7 +18,6 @@ body {
     display: flex;
     flex-wrap: wrap;
     perspective: 1000px;
-    /*border: 2px solid #d1ff4f; //used the border to see how it looks */
 }
 
 .memory-card {
@@ -29,7 +28,6 @@ body {
     transform: scale(1);
     transform-style: preserve-3d;
     transition: transform .5s;
-    /*border: 2px solid #39d4e1; //used the border to see how it looks in the container */
 }
 
 .memory-card:active{
