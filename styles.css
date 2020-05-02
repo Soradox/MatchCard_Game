@@ -7,7 +7,7 @@
 body {
     height: 100vh;
     display: flex;
-    background: #8590a7;
+    background: #d2c7c7;
 
 }
 
@@ -47,7 +47,7 @@ body {
     padding: 20px;
     position: absolute;
     border-radius: 5px;
-    background:  #ed3c6d;
+    background:  #eed9a8;
     backface-visibility: hidden;
 }
 
